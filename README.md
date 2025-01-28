@@ -20,7 +20,6 @@ Meu nome é Gabriel e sou um jovem de 18 anos. Atualmente trabalhando no departa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
 </div>
 
 ## Objetivos futuros:
