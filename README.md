@@ -9,7 +9,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBat1staa&theme=transparent&bg_color=000&border_color=29df16&show_icons=true&icon_color=29df16&title_color=E94D5F&text_color=FFF)
 ## Sobre mim
-Meu nome é Gabriel e sou um jovem de 18 anos. Atualmente trabalhando no departamento de comunicação da Câmara Municipal(DICOM) realizando a inicialização e manutenção de transmissão ao vivo de eventos e sessões plenárias realizadas na Câmara. Estou em busca de novas oportunidades para desenvolver minha carreira profissional. Sou uma pessoa dedicada, criativa e comprometida com o meu trabalho, sempre procurando entregar o melhor resultado e aprender desafios. Tenho interesse por áreas que envolvam desenvolvimento de tecnologia e comunicação.
+Meu nome é Gabriel e sou um jovem de 18 anos. Atualmente estou trabalhando como estágiario de T.i no departamento de comunicação da Câmara Municipal de Manaus e estou em busca de uma oportunidade focada em desenvolvimento.
 ## Em uso e aprendizado:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
