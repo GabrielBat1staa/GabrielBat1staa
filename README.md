@@ -5,7 +5,7 @@
 
 
 ## 💻Redes Sociais
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/rm0vCi) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielbatistaa.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-9b23712b7/)	
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBat1staa&theme=transparent&bg_color=000&border_color=29df16&show_icons=true&icon_color=29df16&title_color=E94D5F&text_color=FFF)
 ## Sobre mim
